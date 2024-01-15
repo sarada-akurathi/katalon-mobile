@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('bs://sample.app', true)
+Mobile.startApplication('androidapp/WikipediaSample.apk', true)
 
 Mobile.tap(findTestObject('Object Repository/android.widget.LinearLayout'), 5)
 
