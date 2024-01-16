@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'androidapp/WikipediaSample.apk'</initValue>
+      <name>G_AppPath</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

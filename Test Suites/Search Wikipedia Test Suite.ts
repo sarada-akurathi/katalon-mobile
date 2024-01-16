@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>25ce0ece-092c-4552-87a9-95b2a75ae61b</testSuiteGuid>
    <testCaseLink>
-      <guid>1f048af3-dcce-4f15-8063-d0d705566a3e</guid>
+      <guid>f1e60e4e-0c5b-4d50-9b39-7f6a733a128e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Search Wikipedia Test</testCaseId>
+      <testCaseId>Test Cases/Search Wikipedia Test - Browser Stack</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
